@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Evaluación de conocimientos en manejo sanitario de bovinos.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar el nivel de comprensión y apropiación de los conocimientos relacionados con la sanidad y bioseguridad en sistemas de producción bovina, incluyendo normas de seguridad y salud en el trabajo, bienestar animal, manejo de medicamentos, limpieza y desinfección, y aplicación de planes sanitarios, con el fin de verificar el desarrollo de competencias técnicas orientadas a la producción ganadera segura, eficiente e inocua.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -28,28 +28,28 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Cuál es el objetivo principal de la Seguridad y Salud en el Trabajo (SST)?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Proteger la salud, integridad y bienestar laboral.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Aumentar la producción sin control sanitario alguno.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Reducir costos eliminando equipos de protección.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Priorizar el rendimiento sobre la seguridad laboral.',
               esCorrecta: false,
             },
           ],
@@ -59,28 +59,28 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
+            '¿Cuál de los siguientes es un elemento de protección personal en bovinos?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Balde metálico para el ordeño del animal.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Guantes de látex o nitrilo para protección.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Manga de manejo para conducción animal.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Báscula ganadera para control de peso vivo.',
               esCorrecta: false,
             },
           ],
@@ -89,28 +89,28 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
+          texto: '¿Qué rango de temperatura se debe mantener para biológicos?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Entre 10 °C y 20 °C durante almacenamiento.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Entre 0 °C y 2 °C en todo momento requerido.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Entre 2 °C y 8 °C durante su conservación.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Entre 15 °C y 25 °C en el transporte normal.',
               esCorrecta: false,
             },
           ],
@@ -119,29 +119,28 @@ export default {
         },
         {
           id: 4,
-          texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
+          texto: '¿Cuál es un riesgo biológico en actividades sanitarias?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Golpes ocasionados por el manejo del animal.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Exposición a bacterias, virus o parásitos.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Uso de herramientas en mal estado general.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Posturas incorrectas durante el trabajo diario.',
               esCorrecta: false,
             },
           ],
@@ -150,29 +149,30 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
+          texto:
+            '¿Qué relación existe entre SST, bienestar animal e inocuidad?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'No existe relación directa entre estos conceptos.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Solo aplica en sistemas industriales avanzados.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Son independientes en la producción ganadera.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Están integrados y mejoran calidad productiva.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -180,29 +180,28 @@ export default {
         },
         {
           id: 6,
-          texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
+          texto: '¿Qué describe el bienestar animal correctamente?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Estado físico y mental según condiciones de vida.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Solo la ausencia de enfermedades visibles.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Exclusivamente el aumento de productividad.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Únicamente el acceso a alimento constante.',
               esCorrecta: false,
             },
           ],
@@ -211,29 +210,28 @@ export default {
         },
         {
           id: 7,
-          texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
+          texto: '¿Cuál es una de las cinco libertades del bienestar animal?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Libre de hambre y sed permanentemente.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Libre de intervención humana en todo momento.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Libre de reproducción en sistemas productivos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Libre de contacto con otros animales siempre.',
               esCorrecta: false,
             },
           ],
@@ -242,29 +240,28 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+          texto: '¿Qué beneficio tiene el bienestar animal en la producción?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Reduce la necesidad de registros sanitarios.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Disminuye la productividad del sistema ganadero.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Mejora la salud y aumenta la productividad.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Elimina completamente las enfermedades.',
               esCorrecta: false,
             },
           ],
@@ -273,20 +270,29 @@ export default {
         },
         {
           id: 9,
-          texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
+          texto: '¿Qué entidad regula la sanidad animal en Colombia?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Ministerio de Educación Nacional de Colombia.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Instituto Colombiano Agropecuario ICA.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Organización Mundial de la Salud global.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Secretaría de Movilidad municipal local.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -294,19 +300,28 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
+          texto: '¿Qué son las Buenas Prácticas Ganaderas (BPG)?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Normas solo enfocadas en la producción lechera.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Medidas técnicas para alimentos seguros y calidad.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Actividades opcionales sin la regulación oficial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Estrategias comerciales sin la base sanitaria.',
               esCorrecta: false,
             },
           ],
@@ -315,20 +330,29 @@ export default {
         },
         {
           id: 11,
-          texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
+          texto: '¿Qué se debe hacer con animales enfermos según BPG?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Mezclarlos con el resto del hato productivo.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Ignorar síntomas hasta que desaparezcan solos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Aislarlos y aplicar protocolos de tratamiento.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Sacrificarlos inmediatamente sin evaluación.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -336,19 +360,28 @@ export default {
         },
         {
           id: 12,
-          texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
+          texto: '¿Cuál es un ejemplo de implemento sanitario?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Jeringa utilizada para aplicar medicamentos.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Manga ganadera para inmovilizar animales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Sistema de ventilación en las instalaciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Báscula electrónica para pesaje del ganado.',
               esCorrecta: false,
             },
           ],
@@ -357,19 +390,28 @@ export default {
         },
         {
           id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
+          texto: '¿Qué caracteriza a los equipos sanitarios?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Son materiales desechables de uso inmediato.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Son dispositivos que facilitan procedimientos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Son únicamente productos químicos activos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Son alimentos suplementarios para bovinos.',
               esCorrecta: false,
             },
           ],
@@ -378,20 +420,29 @@ export default {
         },
         {
           id: 14,
-          texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+          texto: '¿Cuál es el primer paso en limpieza y desinfección?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Aplicar directamente el desinfectante químico.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Secar completamente la superficie tratada.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Remover residuos sólidos y materia orgánica.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Enjuagar con abundante agua sin detergente.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -399,19 +450,178 @@ export default {
         },
         {
           id: 15,
-          texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+          texto: '¿Qué tipo de desinfección usa sustancias químicas?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Desinfección mecánica mediante presión de agua.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Desinfección física mediante vapor caliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Desinfección manual con herramientas básicas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Desinfección química con agentes específicos.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto: '¿Cuál es un medicamento veterinario común?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Antibióticos para infecciones bacterianas.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Detergentes para limpieza de instalaciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Desinfectantes para superficies externas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Equipos de ordeño en producción lechera.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto: '¿Qué función tienen las vacunas en bovinos?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Tratar enfermedades ya desarrolladas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Generar inmunidad preventiva en animales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Aumentar el peso sin control sanitario.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Sustituir completamente los tratamientos.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto: '¿Cuál es una vía de administración de medicamentos?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Mecánica mediante equipos industriales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Intramuscular aplicada en el músculo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Ambiental mediante dispersión aérea.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Nutricional mediante alimentos balanceados.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto: '¿Qué debe incluir un plan sanitario?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Solo registros de producción diaria del hato.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Actividades recreativas del personal rural.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Cronogramas de vacunación y desparasitación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Únicamente información financiera del predio.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto: '¿Por qué es importante el registro sanitario?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Para cumplir únicamente requisitos internos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Para evitar el uso de medicamentos legales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Para documentar y controlar actividades sanitarias.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Para eliminar la trazabilidad en producción.',
               esCorrecta: false,
             },
           ],
