@@ -6,58 +6,278 @@
       .titulo-principal__numero
         span 3
       h1 Normativa sanitaria vigente
-    
-
-    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-xl.mb-4.mb-lg-0
+        .box___style_1.fit___box_1-1(data-aos="fade-right")
+          p.mb-0 La normativa sanitaria en la producción bovina en Colombia establece lineamientos obligatorios para garantizar la inocuidad, el bienestar animal, la trazabilidad y la sostenibilidad, bajo la supervisión del ICA y otras entidades del sector.
+      .col-xl-auto.col-md-9(data-aos="fade-left")
+        figure
+          img(src="@/assets/curso/temas/img19.png", alt="").m-auto
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
-    Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Legislación aplicable
-
-
-
-      
+    p.mb-5 En Colombia, la producción bovina se encuentra regulada por un conjunto de normas que integran aspectos sanitarios, ambientales y de bienestar animal. Estas son:
+    .row.align-items-center.mb-0
+      .col-xl-auto(data-aos="fade-right")
+        figure.d-none.d-xl-block
+          img(src="@/assets/curso/temas/img11.png", alt="" ).m-auto
+      .col-xl
+        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+          .row(titulo="Resolución ICA 068167 de 2020").ajuste-cajaAcordion
+            p.mb-3 Establece los requisitos para la certificación en Buenas Prácticas Ganaderas (BPG) en la producción de carne de bovinos y bufalinos. Define criterios en infraestructura, manejo sanitario, alimentación, bienestar animal, trazabilidad, uso de medicamentos y gestión ambiental. Esta resolución busca garantizar que la producción primaria cumpla estándares de inocuidad y calidad exigidos a nivel nacional e internacional.  
+          .row(titulo="Resolución ICA 0000002341 de 2007").ajuste-cajaAcordion
+            p Reglamenta los requisitos para la certificación en BPG, incluyendo: 
+            ul.fa-ul.mb-0
+              li.mb-0
+                span.fa-li
+                  i.fas.fa-check-circle
+                | Manejo sanitario del hato. 
+              li.mb-0
+                span.fa-li
+                  i.fas.fa-check-circle
+                | Programas de alimentación. 
+              li.mb-0
+                span.fa-li
+                  i.fas.fa-check-circle
+                | Bienestar animal. 
+              li.mb-0
+                span.fa-li
+                  i.fas.fa-check-circle
+                | Trazabilidad e identificación animal. 
+              li.mb-0
+                span.fa-li
+                  i.fas.fa-check-circle
+                | Manejo ambiental y de residuos. 
+              li.mb-0
+                span.fa-li
+                  i.fas.fa-check-circle
+                | Documentación y registros técnicos. 
+          .row(titulo="Decreto 1500 de 2007 (y Decreto 2270 de 2012)").ajuste-cajaAcordion
+            p.mb-3 Regula el sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos. Aunque se enfoca en plantas de beneficio, impacta directamente la producción primaria, ya que exige condiciones sanitarias desde el predio hasta el consumidor final.
+          .row(titulo="Ley 1774 de 2016").ajuste-cajaAcordion
+            p.mb-3 Reconoce a los animales como seres sintientes y establece sanciones frente al maltrato animal. Es base legal para la implementación obligatoria del bienestar animal en los sistemas productivos.
+          .row(titulo="Manual de Buenas Prácticas Ganaderas del ICA").ajuste-cajaAcordion
+            p.mb-3  Documento técnico que orienta la implementación de BPG en los predios, sirviendo como guía para cumplir con los requisitos de certificación.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Requisitos sanitarios
-
-
-
-
+    p.mb-5 Los predios ganaderos deben cumplir requisitos básicos que garanticen la sanidad animal y la inocuidad, reduciendo riesgos biológicos, químicos y físicos en la producción. Entre los principales requisitos se destacan:
+    .row.justify-content-center.mb-0
+      .col-xl-10
+        .box___style_2(data-aos="zoom-in")
+          .row.align-items-center
+            .col-xl-auto
+              figure
+                img(src='@/assets/curso/temas/img20.jpg', alt='').m-auto
+            .col-xl.fit___box_container
+              p #[b Requisitos sanitarios]
+              ul.fa-ul.estilo___ul.mb-0
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Implementación de programas sanitarios, como vacunación y desparasitación. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Control de enfermedades de vigilancia o control oficial. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Uso adecuado y responsable de medicamentos veterinarios. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Cumplimiento estricto de los tiempos de retiro. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Manejo adecuado de residuos sólidos y líquidos. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Disponibilidad de agua potable y alimentación segura. 
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Registro y documentación de todas las actividades sanitarias. 
     <!------------------------------------------ SUBTEMA 3 ------------------------------------------>
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3 Protocolos oficiales
-
-
-
-
+    p.mb-5 Los protocolos sanitarios corresponden a procedimientos establecidos por las autoridades competentes para prevenir, controlar y mitigar riesgos en la producción ganadera. 
+    .row.justify-content-center.mb-5
+      .col-xl-10
+        .box___style_3(data-aos="zoom-in")
+          .row.align-items-center
+            .col-xl.order-2.order-lg-1.fit___box_container
+              p Su correcta aplicación implica:
+              ul.fa-ul.estilo___ul.mb-0
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Implementación de protocolos de bioseguridad. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Ejecución de planes sanitarios con vacunación. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Aplicación de limpieza y desinfección. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Uso adecuado de medicamentos y biológicos. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Control de enfermedades. 
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Cumplimiento de protocolos de movilización animal.
+            .col-xl-auto.order-1.order-lg-2
+              figure
+                img(src='@/assets/curso/temas/img21.jpg', alt='').m-auto
+    p.mb-0 Estos protocolos deben ser aplicados de manera continua, documentados y supervisados periódicamente.
     <!------------------------------------------ SUBTEMA 4 ------------------------------------------>
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Responsabilidades del productor
-
-
-
-
+    p.mb-0 El productor ganadero es responsable de cumplir la normativa sanitaria, garantizar el bienestar animal, ejecutar el plan sanitario, mantener registros, asegurar la trazabilidad y usar correctamente los medicamentos. Su incumplimiento genera sanciones, pérdidas y riesgos para la salud pública.
     <!------------------------------------------ SUBTEMA 5 ------------------------------------------>
     Separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5 Aplicación de la normativa sanitaria en campo
-
-
-
-
+    p.mb-5 En la práctica, la normativa sanitaria se implementa a través de acciones concretas en el día a día del predio ganadero. 
+    .row.justify-content-center.mb-5
+      .col-xl-10
+        .box___style_2(data-aos="zoom-in")
+          .row.align-items-center
+            .col-xl-auto
+              figure
+                img(src='@/assets/curso/temas/img22.jpg', alt='').m-auto
+            .col-xl.fit___box_container
+              p Entre las más importantes se encuentran:
+              ul.fa-ul.estilo___ul.mb-0
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Uso de implementos y equipos adecuados para cada actividad. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Aplicación de Buenas Prácticas Ganaderas (BPG). 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Manejo higiénico en todas las etapas del proceso productivo. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Control del ingreso de personas y vehículos al predio. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Disposición adecuada de residuos. 
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Monitoreo permanente del estado sanitario del hato. 
+    p.mb-0 La correcta aplicación de estas medidas en campo es fundamental para garantizar la producción de alimentos seguros, de alta calidad y aptos para el consumo.
     <!------------------------------------------ SUBTEMA 6 ------------------------------------------>
     Separador
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.6 Normativa sobre bienestar animal y uso de medicamentos
-
-
-
-
-
+    p.mb-5 El bienestar animal y el uso de medicamentos están regulados por normas específicas; por lo cual, se invita a realizar la lectura de estas en los siguientes documentos anexos:
+    .box___style_4.mb-3(data-aos="flip-up")
+      .row.align-items-center
+        .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
+          figure
+            img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
+        .col-xl.mb-4.mb-lg-0
+          h4 Resolución ICA No. 136 de 2020.  
+          p.mb-0 Establece los requisitos para el manejo adecuado de animales de producción, incluyendo transporte, manejo y condiciones de bienestar.
+        .col-xl-2
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/1_Resolucion_ICA_136__2020_Bienestar_animal.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
+    .box___style_4.mb-3(data-aos="flip-up")
+      .row.align-items-center
+        .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
+          figure
+            img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
+        .col-xl.mb-4.mb-lg-0
+          h4 Resolución ICA 067449 de 2020
+          p.mb-0 Condiciona la certificación en BPG al cumplimiento de estándares de bienestar animal.
+        .col-xl-2
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/2_Resolucion_067449_08_mayo_2020.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
+    .box___style_4.mb-3(data-aos="flip-up")
+      .row.align-items-center
+        .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
+          figure
+            img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
+        .col-xl.mb-4.mb-lg-0
+          h4 Decreto 2113 de 2017
+          p.mb-0 Reglamenta la movilización de animales, incluyendo condiciones de transporte que garanticen bienestar.
+        .col-xl-2
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/3_DECRETO_2113_15_DICIEMBRE_2017.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
+    .box___style_4.mb-3(data-aos="flip-up")
+      .row.align-items-center
+        .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
+          figure
+            img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
+        .col-xl.mb-4.mb-lg-0
+          h4 Resolución ICA 1325 de 2016
+          p.mb-0 Regula la trazabilidad animal, permitiendo el seguimiento sanitario del ganado.
+        .col-xl-2
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/4_Resolucion_1325_2016.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
+    .box___style_4.mb-5(data-aos="flip-up")
+      .row.align-items-center
+        .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
+          figure
+            img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
+        .col-xl.mb-4.mb-lg-0
+          h4 Resolución 1056 de 1996
+          p.mb-0 Define medidas sanitarias básicas en predios ganaderos.
+        .col-xl-2
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/5_Resolucion_1056_1996.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
+    p.mb-5 El uso de medicamentos veterinarios debe realizarse de manera responsable y bajo criterios técnicos, con el fin de garantizar la salud animal y la inocuidad de los productos de origen animal. 
+    .row.justify-content-center.mb-0
+      .col-xl-10
+        .box___style_2(data-aos="zoom-in")
+          .row.align-items-center
+            .col-xl-auto
+              figure
+                img(src='@/assets/curso/temas/img24.jpg', alt='').m-auto
+            .col-xl.fit___box_container
+              p Para ello, es importante tener en cuenta los siguientes aspectos:
+              ul.fa-ul.estilo___ul.mb-0
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Deben estar autorizados por el Instituto Colombiano Agropecuario (ICA). 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Su aplicación debe realizarse bajo criterio técnico o supervisión de un médico veterinario. 
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Es obligatorio respetar la dosis, la vía de administración y los tiempos de retiro establecidos. 
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  | Todo uso debe registrarse en el historial sanitario del animal para asegurar la trazabilidad. 
 
 </template>
 
