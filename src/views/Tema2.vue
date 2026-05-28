@@ -33,7 +33,7 @@
             p.mb-3 El animal debe tener espacio y condiciones que le permitan moverse, socializar y realizar conductas propias de su especie.
           .row(titulo="Libre de miedo y angustia").ajuste-cajaAcordion
             p.mb-3 Se debe garantizar un manejo tranquilo, evitando el maltrato, el estrés y situaciones que generen temor o sufrimiento.
-    p.mb-0 Estos principios están alineados con la normatividad colombiana como la Ley 1774 de 2016 y las resoluciones del ICA.
+    p.mb-0 Estos principios están alineados con la normatividad colombiana. Como la Ley 1774 de 2016 y las resoluciones del ICA.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -72,84 +72,84 @@
               tr.ajuste-color-tabla
                 td(rowspan="8").ajuste-border-tabla.texto-left #[b Sanidad Animal]
                 td.ajuste-border-tabla.texto-left Plan sanitario
-                td.ajuste-border-tabla.texto-left Plan elaborado por MV o MVZ con acciones preventivas, listado de vacunas y RUV actualizado
+                td.ajuste-border-tabla.texto-left Plan elaborado por MV o MVZ con acciones preventivas, listado de vacunas y RUV actualizado.
                 td.texto-left Art. 5.1.1
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Certificación sanitaria
-                td.ajuste-border-tabla.texto-left Predio con certificado vigente libre de brucelosis y tuberculosis
+                td.ajuste-border-tabla.texto-left Predio con certificado vigente libre de brucelosis y tuberculosis.
                 td.texto-left Art. 5.1.2
               tr
                 td.ajuste-border-tabla.texto-left Manejo de animales enfermos
-                td.ajuste-border-tabla.texto-left Protocolo de aislamiento, identificación y control de animales en tratamiento
+                td.ajuste-border-tabla.texto-left Protocolo de aislamiento, identificación y control de animales en tratamiento.
                 td.texto-left Art. 5.1.3
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Registro de enfermedades
-                td.ajuste-border-tabla.texto-left Registro de diagnósticos, mortalidades, fechas, identificación animal y responsable
+                td.ajuste-border-tabla.texto-left Registro de diagnósticos, mortalidades, fechas, identificación animal y responsable.
                 td.texto-left Art. 5.1.4
               tr
                 td.ajuste-border-tabla.texto-left Instructivo sanitario
-                td.ajuste-border-tabla.texto-left Documento sobre enfermedades de control oficial y rutas de notificación al ICA
+                td.ajuste-border-tabla.texto-left Documento sobre enfermedades de control oficial y rutas de notificación al ICA.
                 td.texto-left Art. 5.1.5
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Área de enfermería
-                td.ajuste-border-tabla.texto-left Espacio identificado para aislamiento y tratamiento de animales
+                td.ajuste-border-tabla.texto-left Espacio identificado para aislamiento y tratamiento de animales.
                 td.texto-left Art. 5.1.6
               tr
                 td.ajuste-border-tabla.texto-left Control de mastitis
-                td.ajuste-border-tabla.texto-left Programa documentado con diagnóstico, registros y manejo de casos positivos
+                td.ajuste-border-tabla.texto-left Programa documentado con diagnóstico, registros y manejo de casos positivos.
                 td.texto-left Art. 5.1.7
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Cuarentena
-                td.ajuste-border-tabla.texto-left Procedimiento de ingreso con aislamiento mínimo de 21 días
+                td.ajuste-border-tabla.texto-left Procedimiento de ingreso con aislamiento mínimo de 21 días.
                 td.texto-left Art. 5.3.3
               tr
                 td(rowspan="12").ajuste-border-tabla.texto-left #[b Medicamentos Veterinarios (BPMV)]
                 td.ajuste-border-tabla.texto-left Registro ICA
-                td.ajuste-border-tabla.texto-left Uso exclusivo de productos con registro ICA vigente
+                td.ajuste-border-tabla.texto-left Uso exclusivo de productos con registro ICA vigente.
                 td.texto-left Art. 8.1
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Vigencia productos
-                td.ajuste-border-tabla.texto-left Medicamentos no vencidos y sin alteraciones físicas
+                td.ajuste-border-tabla.texto-left Medicamentos no vencidos y sin alteraciones físicas.
                 td.texto-left Art. 8.2
               tr
                 td.ajuste-border-tabla.texto-left Almacenamiento
-                td.ajuste-border-tabla.texto-left Condiciones adecuadas, clasificación y control de temperatura
+                td.ajuste-border-tabla.texto-left Condiciones adecuadas, clasificación y control de temperatura.
                 td.texto-left Art. 8.3 – 8.5
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Sustancias prohibidas
-                td.ajuste-border-tabla.texto-left Prohibición de uso de sustancias no autorizadas
+                td.ajuste-border-tabla.texto-left Prohibición de uso de sustancias no autorizadas.
                 td.texto-left Art. 8.6
               tr
                 td.ajuste-border-tabla.texto-left Uso de materias primas
-                td.ajuste-border-tabla.texto-left Prohibido uso directo como promotores o terapéuticos
+                td.ajuste-border-tabla.texto-left Prohibido uso directo como promotores o terapéuticos.
                 td.texto-left Art. 8.7
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Tiempo de retiro
-                td.ajuste-border-tabla.texto-left Cumplimiento y registro de tiempos de retiro, identificación de animales
+                td.ajuste-border-tabla.texto-left Cumplimiento y registro de tiempos de retiro, identificación de animales.
                 td.texto-left Art. 8.8
               tr
                 td.ajuste-border-tabla.texto-left Prescripción veterinaria
-                td.ajuste-border-tabla.texto-left Soporte escrito del MV o MVZ para tratamientos requeridos
+                td.ajuste-border-tabla.texto-left Soporte escrito del MV o MVZ para tratamientos requeridos.
                 td.texto-left Art. 8.9 – 8.15
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Registros de tratamientos
-                td.ajuste-border-tabla.texto-left Registro detallado (medicamento, dosis, lote, animal, responsable)
+                td.ajuste-border-tabla.texto-left Registro detallado (medicamento, dosis, lote, animal, responsable).
                 td.texto-left Art. 8.10
               tr
                 td.ajuste-border-tabla.texto-left Equipos
-                td.ajuste-border-tabla.texto-left Equipos limpios, desinfectados y uso de agujas desechables
+                td.ajuste-border-tabla.texto-left Equipos limpios, desinfectados y uso de agujas desechables.
                 td.texto-left Art. 8.11 – 8.12
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Inventario
-                td.ajuste-border-tabla.texto-left Control de entradas, salidas y existencias de medicamentos
+                td.ajuste-border-tabla.texto-left Control de entradas, salidas y existencias de medicamentos.
                 td.texto-left Art. 8.13
               tr
                 td.ajuste-border-tabla.texto-left Personal autorizado
-                td.ajuste-border-tabla.texto-left Aplicación por personal capacitado y autorizado
+                td.ajuste-border-tabla.texto-left Aplicación por personal capacitado y autorizado.
                 td.texto-left Art. 8.14
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Eventos adversos
-                td.ajuste-border-tabla.texto-left Notificación obligatoria al ICA
+                td.ajuste-border-tabla.texto-left Notificación obligatoria al ICA.
                 td.texto-left Art. 8.16
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -168,7 +168,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Objetivos de las buenas prácticas ganaderas bovina"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/Objetivos_buenas_practicas_ganaderas_bovina.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block

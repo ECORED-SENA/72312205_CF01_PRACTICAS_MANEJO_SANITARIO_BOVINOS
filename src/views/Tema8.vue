@@ -31,7 +31,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Fiebre Aftosa
-                p.mb-0 Enfermedad viral altamente contagiosa que afecta bovinos y otros animales. Presenta alta morbilidad en no vacunados y genera grandes pérdidas económicas, afectando el comercio internacional y la producción ganadera. 
+                p.mb-0 Enfermedad viral altamente contagiosa que afecta a bovinos y otros animales. Presenta alta morbilidad en no vacunados y genera grandes pérdidas económicas, afectando el comercio internacional y la producción ganadera. 
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img70.png', alt='' style="max-width: 500px").m-auto
@@ -51,8 +51,8 @@
                   img(src='@/assets/curso/temas/img72.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Estomatits Vesicular
-                p.mb-0 Enfermedad viral que afecta bovinos y otras especies, causando lesiones en boca y patas. Puede transmitirse al ser humano y genera impacto sanitario y económico en la producción.
+                h4 Estomatitis vesicular
+                p.mb-0 Enfermedad viral que afecta a bovinos y otras especies, causando lesiones en boca y patas. Puede transmitirse al ser humano y genera impacto sanitario y económico en la producción.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img73.png', alt='' style="max-width: 500px").m-auto
@@ -163,7 +163,7 @@
         Separador
         #t_8_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 8.3 Diagnóstico básico, tratamientos y profilaxis
-        p.mb-5 El diagnóstico básico permite detectar enfermedades; los tratamientos adecuados y la profilaxis, mediante vacunación y bioseguridad, previenen riesgos, protegen la salud del hato y mejoran la producción. En primer lugar, se conocerá lo que implicar realizar un diagnóstico en campo:
+        p.mb-5 El diagnóstico básico permite detectar enfermedades; los tratamientos adecuados y la profilaxis, mediante vacunación y bioseguridad, previenen riesgos, protegen la salud del hato y mejoran la producción. En primer lugar, se conocerá lo que implica realizar un diagnóstico en campo:
     .row.align-items-center.mb-5
       .col-xl
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-right")
@@ -196,7 +196,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Cojeras o dificultad para caminar. 
+                | Cojera o dificultad para caminar. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -228,7 +228,7 @@
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img82.png", alt="" ).m-auto
-    p.mb-5 Por otra parte, el tratamiento de las enfermedades depende del agente causal y del estado del animal, mientras que la profilaxis tiene como objetivo prevenir su aparición. A continuación, se estudiarán cada uno de estos:
+    p.mb-5 Por otra parte, el tratamiento de las enfermedades depende del agente causal y del estado del animal, mientras que la profilaxis tiene como objetivo prevenir su aparición. A continuación, se estudiara cada uno de estos:
     .row.justify-content-center.mb-5
       .col-xl-6.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         .box___card_sinbordes.h-100

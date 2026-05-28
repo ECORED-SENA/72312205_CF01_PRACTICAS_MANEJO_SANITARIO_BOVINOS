@@ -16,7 +16,7 @@
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
     #t_9_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 9.1 Concepto e importancia
-    p.mb-5 El plan sanitario es un documento técnico, estructurado y de carácter obligatorio dentro de los sistemas de producción bovina y para profundizar en la fundamentación conceptual y su importancia, se invita a reproducir el siguiente video: 
+    p.mb-5 El plan sanitario es un documento técnico, estructurado y de carácter obligatorio dentro de los sistemas de producción bovina y, para profundizar en la fundamentación conceptual y su importancia, se invita a reproducir el siguiente video: 
     figure(data-aos="zoom-in").mb-0
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -178,7 +178,7 @@
           .lista-ol--cuadro__vineta
             span E
           | 
-          p.mb-0 Registros sanitariosO
+          p.mb-0 Registros sanitarios
       p Los registros sanitarios constituyen una herramienta fundamental dentro del sistema de gestión pecuaria, ya que permiten documentar, controlar y verificar todas las actividades relacionadas con la salud del hato.
       .row.justify-content-center.align-items-center
         .col-xl.mb-4.mb-lg-0
@@ -211,7 +211,7 @@
     Separador
     #t_9_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 9.3 Elaboración del cronograma
-    p.mb-5 El cronograma sanitario es una herramienta de planificación que permite organizar, distribuir y programar en el tiempo todas las actividades sanitarias del sistema productivo, garantizando su cumplimiento oportuno y eficiente. Fases para su elaboración son:
+    p.mb-5 El cronograma sanitario es una herramienta de planificación que permite organizar, distribuir y programar en el tiempo todas las actividades sanitarias del sistema productivo, garantizando su cumplimiento oportuno y eficiente. Las fases para su elaboración son:
     .row.justify-content-center.mb-5
       .col-lg-10
         PasosA.color-acento-contenido(tipo="n")
@@ -222,15 +222,15 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Estado sanitario actual. 
+                  | Estado sanitario actual
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Historial de enfermedades. 
+                  | Historial de enfermedades
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Condición productiva del sistema (leche o carne).
+                  | Condición productiva del sistema (leche o carne)
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img97.png', alt='' style="width: 300px").m-auto
@@ -244,15 +244,15 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Ubicación geográfica del predio. 
+                  | Ubicación geográfica del predio
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Condiciones climáticas (épocas de lluvia y sequía). 
+                  | Condiciones climáticas (épocas de lluvia y sequía)
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Tipo de sistema productivo. 
+                  | Tipo de sistema productivo
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Definición de actividades sanitarias
@@ -260,19 +260,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Vacunación. 
+                  | Vacunación
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Desparasitación. 
+                  | Desparasitación
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Monitoreo sanitario. 
+                  | Monitoreo sanitario
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Limpieza y desinfección. 
+                  | Limpieza y desinfección
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img99.png', alt='' style="width: 300px").m-auto
@@ -286,19 +286,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mensual. 
+                  | Mensual
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Trimestral. 
+                  | Trimestral
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Semestral. 
+                  | Semestral
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Anual.
+                  | Anual
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Asignación de responsables
@@ -306,11 +306,11 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Médico veterinario. 
+                  | Médico veterinario
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Personal operativo u operarios del predio. 
+                  | Personal operativo u operarios del predio 
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img101.png', alt='' style="width: 300px").m-auto
@@ -362,19 +362,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Verificación del cumplimiento del cronograma. 
+                  | Verificación del cumplimiento del cronograma
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Evaluación de resultados sanitarios. 
+                  | Evaluación de resultados sanitarios
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Identificación de fallas o desviaciones. 
+                  | Identificación de fallas o desviaciones
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Implementación de acciones de mejora.
+                  | Implementación de acciones de mejora
       .col-xl-6.col-md-9(data-aos="fade-left")
         .box___card_sinbordes.fit___color_card-2.h-100
           .row.justify-content-center.mb-3
@@ -387,19 +387,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mortalidad. 
+                  | Mortalidad
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Morbilidad. 
+                  | Morbilidad
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Niveles de producción. 
+                  | Niveles de producción
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Incidencia y prevalencia de enfermedades.
+                  | Incidencia y prevalencia de enfermedades
     p.mb-0 #[b Nota]: Estos indicadores son obligatorios dentro de los esquemas de certificación en BPG.
     <!------------------------------------------ SUBTEMA 5 ------------------------------------------>
     Separador
@@ -419,19 +419,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Procedimiento paso a paso. 
+                  | Procedimiento paso a paso
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Equipos e insumos necesarios. 
+                  | Equipos e insumos necesarios
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Dosis y medicamentos recomendados. 
+                  | Dosis y medicamentos recomendados
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Medidas de bioseguridad.
+                  | Medidas de bioseguridad
       .col-xl-6.col-md-9(data-aos="fade-left")
         .box___card_sinbordes.fit___color_card-2.h-100
           .row.justify-content-center.mb-3
@@ -444,19 +444,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Verificar la cadena de frío del biológico. 
+                  | Verificar la cadena de frío del biológico
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Desinfectar el sitio de aplicación. 
+                  | Desinfectar el sitio de aplicación
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Aplicar la vacuna según la técnica indicada. 
+                  | Aplicar la vacuna según la técnica indicada
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Registrar la información en el sistema sanitario. 
+                  | Registrar la información en el sistema sanitario
     p.mb-0 Los protocolos deben ser claros, documentados y ejecutados únicamente por personal capacitado o bajo supervisión profesional.
     <!------------------------------------------ SUBTEMA 6 ------------------------------------------>
     Separador

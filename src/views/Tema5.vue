@@ -98,7 +98,7 @@
                   span.fa-li
                     i.fas.fa-check-circle
                   | #[b Química]: Consiste en la aplicación de sustancias desinfectantes como yodo, cloro, amonios cuaternarios, fenoles, glutaraldehído y formaldehído.
-    p.mb-5 Para comprender mejor los tipos de limpieza y desinfección, se presenta cuadro comparativo.
+    p.mb-5 Para comprender mejor los tipos de limpieza y desinfección, se presenta un cuadro comparativo.
     .row.justify-content-center.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -239,7 +239,7 @@
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Preparación de soluciones desinfectadas
+                h4 Preparación de soluciones desinfectantes
                 p.mb-0 La preparación de soluciones desinfectantes debe realizarse siguiendo estrictamente las indicaciones técnicas, con el fin de garantizar su eficacia en la eliminación de microorganismos y evitar riesgos para la salud humana y animal.
               .col-xl-6
                 figure

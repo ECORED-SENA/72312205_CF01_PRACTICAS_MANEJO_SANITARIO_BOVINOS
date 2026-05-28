@@ -34,15 +34,15 @@
                 li.mb-1
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Peso del animal: 400 kg. 
+                  | Peso del animal: 400 kg
                 li.mb-1
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Dosis: 10 mg/kg. 
+                  | Dosis: 10 mg/kg
                 li.mb-1
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Resultado: 4000 mg.     
+                  | Resultado: 4000 mg   
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_10_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")

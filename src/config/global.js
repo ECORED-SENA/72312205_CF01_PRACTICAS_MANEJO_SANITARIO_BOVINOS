@@ -520,7 +520,7 @@ export default {
         'sustancias utilizadas para prevenir, controlar o tratar enfermedades en animales.',
     },
     {
-      termino: 'Perfilaxis',
+      termino: 'Profilaxis',
       significado:
         'conjunto de medidas preventivas destinadas a evitar la aparición de enfermedades.',
     },
@@ -616,7 +616,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional 06. Responsable del Ecosistema Virtual de Recuersos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
