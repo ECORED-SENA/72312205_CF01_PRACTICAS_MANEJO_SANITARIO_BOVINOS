@@ -617,7 +617,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable del Ecosistema Virtual de Recuersos Educativos Digitales',
+            'Profesional 06. Responsable del Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -631,9 +631,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paula Marcela Vidal Quintero',

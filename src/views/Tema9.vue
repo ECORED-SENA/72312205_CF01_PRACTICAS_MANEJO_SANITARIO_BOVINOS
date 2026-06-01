@@ -19,7 +19,7 @@
     p.mb-5 El plan sanitario es un documento técnico, estructurado y de carácter obligatorio dentro de los sistemas de producción bovina y, para profundizar en la fundamentación conceptual y su importancia, se invita a reproducir el siguiente video: 
     figure(data-aos="zoom-in").mb-0
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/5Sy3M59fYkw" title="Plan sanitario bovino: fundamentos, aplicación y normatividad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.fit___figcaption-video #[b Video]. Plan sanitario bovino: fundamentos, aplicación y normatividad.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
