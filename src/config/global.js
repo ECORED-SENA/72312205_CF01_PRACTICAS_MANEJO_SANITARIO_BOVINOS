@@ -568,46 +568,49 @@ export default {
   referencias: [
     {
       referencia:
+        'Consejo Nacional de Política Económica y Social. (2005). Documento CONPES 3375: Política nacional de sanidad agropecuaria e inocuidad de alimentos para el Sistema de Medidas Sanitarias y Fitosanitarias. Departamento Nacional de Planeación. ',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3375.pdf ',
+    },
+    {
+      referencia:
+        'Corporación Colombiana de Investigación Agropecuaria, & Ministerio de Agricultura y Desarrollo Rural. (2018). Guía para la implementación de las buenas prácticas ganaderas. Corporación Colombiana de Investigación Agropecuaria. ',
+      link: 'http://hdl.handle.net/20.500.12324/13482 ',
+    },
+    {
+      referencia:
         'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020: requisitos para la certificación en buenas prácticas ganaderas en la producción de bovinos. ICA. ',
       link:
-        'https://www.ica.gov.co/getattachment/normatividad/normas/2020/resolucion-067449-de-2020.pdf.aspx',
+        'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx ',
     },
     {
       referencia:
         'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 068167 de 2020: requisitos para la certificación en buenas prácticas ganaderas en bovinos de carne y/o bufalinos. ICA. ',
       link:
-        'https://www.ica.gov.co/getattachment/normatividad/normas/2020/resolucion-068167-de-2020.pdf.aspx',
+        'https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-a7ce15ce1ead/2020R68167.aspx   ',
     },
     {
       referencia:
         'Instituto Colombiano Agropecuario (ICA). (2023). Manual de buenas prácticas ganaderas para bovinos. ICA. ',
       link:
-        'https://www.ica.gov.co/areas/pecuaria/bovinos/manual-buenas-practicas-ganaderas',
+        'https://www.ica.gov.co/getattachment/35f0d70e-b2dd-4bfc-ac1f-ba169b5ccdca/Publicacion-5.aspx',
     },
     {
       referencia:
-        'Ministerio de Agricultura y Desarrollo Rural. (2022). Política nacional de sanidad e inocuidad agropecuaria. Gobierno de Colombia. ',
-      link: 'https://www.minagricultura.gov.co',
+        'Ministerio de Salud y Protección Social. (2013). Lineamientos para el uso prudente de antimicrobianos en producción animal. Gobierno de Colombia.  ',
+      link:
+        'https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%205296%20del%202013.pdf ',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2013). Lineamientos para el uso prudente de antimicrobianos en producción animal. Gobierno de Colombia. ',
-      link: 'https://www.minsalud.gov.co',
-    },
-    {
-      referencia:
-        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2021). Buenas prácticas ganaderas para la producción de carne y leche. FAO. ',
-      link: 'https://www.fao.org/animal-production/es',
+        'Ministerio de la Protección Social. (2007). Decreto 1500 de 2007: Reglamento técnico para la inspección, vigilancia y control de la carne y productos cárnicos. Instituto Nacional de Vigilancia de Medicamentos y Alimentos. ',
+      link:
+        'https://www.invima.gov.co/biblioteca/decreto-1500-2007-reglamento-tecnico-carne-productos-carnicos',
     },
     {
       referencia:
         'Organización Mundial de Sanidad Animal (OMSA). (2023). Código sanitario para los animales terrestres. OMSA. ',
-      link: 'https://www.woah.org/es/que-hacemos/normas/codigo-terrestre/',
-    },
-    {
-      referencia:
-        'República de Colombia. (2007). Decreto 1500 de 2007: sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos comestibles. Diario Oficial. ',
-      link: 'https://www.icbf.gov.co/cargues/avance/docs/decreto_1500_2007.htm',
+      link: 'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/ ',
     },
   ],
   creditos: [
