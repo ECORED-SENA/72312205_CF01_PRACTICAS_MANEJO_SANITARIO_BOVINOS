@@ -439,7 +439,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/72312205_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -676,6 +676,12 @@ export default {
         },
         {
           nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

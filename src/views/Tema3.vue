@@ -200,7 +200,7 @@
           h4 Resolución ICA No. 136 de 2020.  
           p.mb-0 Establece los requisitos para el manejo adecuado de animales de producción, incluyendo transporte, manejo y condiciones de bienestar.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/1_Resolucion_ICA_136__2020_Bienestar_animal.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/1_Resolucion_ICA_136__2020_Bienestar_animal.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -212,7 +212,7 @@
           h4 Resolución ICA 067449 de 2020
           p.mb-0 Condiciona la certificación en BPG al cumplimiento de estándares de bienestar animal.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/2_Resolucion_067449_08_mayo_2020.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/2_Resolucion_067449_08_mayo_2020.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -224,7 +224,7 @@
           h4 Decreto 2113 de 2017
           p.mb-0 Reglamenta la movilización de animales, incluyendo condiciones de transporte que garanticen bienestar.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/3_DECRETO_2113_15_DICIEMBRE_2017.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/3_DECRETO_2113_15_DICIEMBRE_2017.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -236,7 +236,7 @@
           h4 Resolución ICA 1325 de 2016
           p.mb-0 Regula la trazabilidad animal, permitiendo el seguimiento sanitario del ganado.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/4_Resolucion_1325_2016.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/4_Resolucion_1325_2016.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-5(data-aos="flip-up")
@@ -248,7 +248,7 @@
           h4 Resolución 1056 de 1996
           p.mb-0 Define medidas sanitarias básicas en predios ganaderos.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/5_Resolucion_1056_1996.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/5_Resolucion_1056_1996.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     p.mb-5 El uso de medicamentos veterinarios debe realizarse de manera responsable y bajo criterios técnicos, con el fin de garantizar la salud animal y la inocuidad de los productos de origen animal. 
