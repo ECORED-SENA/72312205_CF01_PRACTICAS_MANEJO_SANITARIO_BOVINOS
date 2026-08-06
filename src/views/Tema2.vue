@@ -33,7 +33,7 @@
             p.mb-3 El animal debe tener espacio y condiciones que le permitan moverse, socializar y realizar conductas propias de su especie.
           .row(titulo="Libre de miedo y angustia").ajuste-cajaAcordion
             p.mb-3 Se debe garantizar un manejo tranquilo, evitando el maltrato, el estrés y situaciones que generen temor o sufrimiento.
-    p.mb-0 Estos principios están alineados con la normatividad colombiana. Como la Ley 1774 de 2016 y las resoluciones del ICA.
+    p.mb-0 Estos principios están alineados con la normatividad colombiana como la Ley 1774 de 2016 y las resoluciones del ICA.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
