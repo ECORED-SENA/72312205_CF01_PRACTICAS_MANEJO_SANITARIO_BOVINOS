@@ -53,7 +53,7 @@
     <!------------------------------------------ SUBTEMA 4 ------------------------------------------>
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.4 Buenas prácticas ganaderas (BPG)
+      h2 2.4 Buenas Prácticas Ganaderas (BPG)
     p.mb-5 Las Buenas Prácticas Ganaderas (BPG) garantizan alimentos seguros y de calidad mediante manejo adecuado, uso responsable de medicamentos y control sanitario, base de una ganadería responsable. En el siguiente cuadro se resumen los principales requisitos sanitarios y de uso de medicamentos.
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -156,7 +156,7 @@
         figure
           img(src="@/assets/curso/temas/img69.svg" style="max-width: 60px").m-auto
       .col
-        h3 Objetivos de las buenas prácticas ganaderas bovina 
+        h3 Objetivos de las Buenas Prácticas Ganaderas bovinas
     p.mb-5 Entender de manera clara y práctica cómo las Buenas Prácticas Ganaderas impactan la producción bovina es vital y para ello, tenemos un pódcast. A lo largo del episodio se descubrirá cómo la inocuidad, el control de enfermedades, el bienestar animal, la protección ambiental y la trazabilidad se integran para garantizar una producción segura, responsable y competitiva.
     .row.align-items-center.m-0.mb-0
       .col-xl
@@ -167,7 +167,7 @@
           .col
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
-              texto="Objetivos de las buenas prácticas ganaderas bovina"
+              texto="Objetivos de las Buenas Prácticas Ganaderas bovinas"
               :audio="require('@/assets/componentes/audios/Objetivos_buenas_practicas_ganaderas_bovina.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
@@ -224,7 +224,7 @@
                   span.fa-li
                     i.fas.fa-check-circle
                   | Aplicación de sedación cuando sea necesario, bajo supervisión veterinaria. 
-    p.mb-5 Este la tabla 2 presenta de forma clara y práctica los principios básicos para el manejo seguro del bovino, orientando acciones que protegen al animal y al operario.
+    p.mb-5 La tabla 2 presenta de forma clara y práctica los principios básicos para el manejo seguro del bovino, orientando acciones que protegen al animal y al operario.
     .row.justify-content-center.mb-0
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")

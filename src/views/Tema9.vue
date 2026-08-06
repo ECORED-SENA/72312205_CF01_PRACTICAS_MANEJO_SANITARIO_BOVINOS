@@ -222,15 +222,15 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Estado sanitario actual
+                  | Estado sanitario actual.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Historial de enfermedades
+                  | Historial de enfermedades.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Condición productiva del sistema (leche o carne)
+                  | Condición productiva del sistema (leche o carne).
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img97.png', alt='' style="width: 300px").m-auto
@@ -244,15 +244,15 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Ubicación geográfica del predio
+                  | Ubicación geográfica del predio.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Condiciones climáticas (épocas de lluvia y sequía)
+                  | Condiciones climáticas (épocas de lluvia y sequía).
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Tipo de sistema productivo
+                  | Tipo de sistema productivo.
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Definición de actividades sanitarias
@@ -260,19 +260,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Vacunación
+                  | Vacunación.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Desparasitación
+                  | Desparasitación.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Monitoreo sanitario
+                  | Monitoreo sanitario.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Limpieza y desinfección
+                  | Limpieza y desinfección.
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img99.png', alt='' style="width: 300px").m-auto
@@ -286,19 +286,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mensual
+                  | Mensual.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Trimestral
+                  | Trimestral.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Semestral
+                  | Semestral.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Anual
+                  | Anual.
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Asignación de responsables
@@ -306,11 +306,11 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Médico veterinario
+                  | Médico veterinario.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Personal operativo u operarios del predio 
+                  | Personal operativo u operarios del predio. 
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img101.png', alt='' style="width: 300px").m-auto
@@ -362,19 +362,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Verificación del cumplimiento del cronograma
+                  | Verificación del cumplimiento del cronograma.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Evaluación de resultados sanitarios
+                  | Evaluación de resultados sanitarios.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Identificación de fallas o desviaciones
+                  | Identificación de fallas o desviaciones.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Implementación de acciones de mejora
+                  | Implementación de acciones de mejora.
       .col-xl-6.col-md-9(data-aos="fade-left")
         .box___card_sinbordes.fit___color_card-2.h-100
           .row.justify-content-center.mb-3
@@ -419,19 +419,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Procedimiento paso a paso
+                  | Procedimiento paso a paso.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Equipos e insumos necesarios
+                  | Equipos e insumos necesarios.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Dosis y medicamentos recomendados
+                  | Dosis y medicamentos recomendados.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Medidas de bioseguridad
+                  | Medidas de bioseguridad.
       .col-xl-6.col-md-9(data-aos="fade-left")
         .box___card_sinbordes.fit___color_card-2.h-100
           .row.justify-content-center.mb-3
@@ -444,19 +444,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Verificar la cadena de frío del biológico
+                  | Verificar la cadena de frío del biológico.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Desinfectar el sitio de aplicación
+                  | Desinfectar el sitio de aplicación.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Aplicar la vacuna según la técnica indicada
+                  | Aplicar la vacuna según la técnica indicada.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Registrar la información en el sistema sanitario
+                  | Registrar la información en el sistema sanitario.
     p.mb-0 Los protocolos deben ser claros, documentados y ejecutados únicamente por personal capacitado o bajo supervisión profesional.
     <!------------------------------------------ SUBTEMA 6 ------------------------------------------>
     Separador

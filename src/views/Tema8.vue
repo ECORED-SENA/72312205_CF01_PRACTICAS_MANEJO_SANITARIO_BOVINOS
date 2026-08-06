@@ -300,43 +300,43 @@
               tr
                 td.ajuste-border-tabla.texto-left Tratamiento
                 td.ajuste-border-tabla.texto-left Antibióticos
-                td.ajuste-border-tabla.texto-left Infecciones bacterianas
-                td.texto-left Eliminar el agente causal
+                td.ajuste-border-tabla.texto-left Infecciones bacterianas.
+                td.texto-left Eliminar el agente causal.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Tratamiento
                 td.ajuste-border-tabla.texto-left Antiinflamatorios
-                td.ajuste-border-tabla.texto-left Fiebre, dolor
-                td.texto-left Reducir inflamación y malestar
+                td.ajuste-border-tabla.texto-left Fiebre, dolor.
+                td.texto-left Reducir inflamación y malestar.
               tr
                 td.ajuste-border-tabla.texto-left Tratamiento
                 td.ajuste-border-tabla.texto-left Antiparasitarios
-                td.ajuste-border-tabla.texto-left Parásitos internos/externos
-                td.texto-left Controlar infestaciones
+                td.ajuste-border-tabla.texto-left Parásitos internos/externos.
+                td.texto-left Controlar infestaciones.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Tratamiento
                 td.ajuste-border-tabla.texto-left Fluidoterapia
-                td.ajuste-border-tabla.texto-left Deshidratación
-                td.texto-left Restablecer líquidos y electrolitos
+                td.ajuste-border-tabla.texto-left Deshidratación.
+                td.texto-left Restablecer líquidos y electrolitos.
               tr
                 td.ajuste-border-tabla.texto-left Profilaxis
                 td.ajuste-border-tabla.texto-left Vacunación
-                td.ajuste-border-tabla.texto-left Fiebre aftosa, brucelosis
-                td.texto-left Prevenir enfermedades
+                td.ajuste-border-tabla.texto-left Fiebre aftosa, brucelosis.
+                td.texto-left Prevenir enfermedades.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Profilaxis
                 td.ajuste-border-tabla.texto-left Desparasitación
-                td.ajuste-border-tabla.texto-left Control periódico
-                td.texto-left Reducir carga parasitaria
+                td.ajuste-border-tabla.texto-left Control periódico.
+                td.texto-left Reducir carga parasitaria.
               tr
                 td.ajuste-border-tabla.texto-left Profilaxis
                 td.ajuste-border-tabla.texto-left Manejo nutricional
-                td.ajuste-border-tabla.texto-left Dieta balanceada
-                td.texto-left Fortalecer el sistema inmune
+                td.ajuste-border-tabla.texto-left Dieta balanceada.
+                td.texto-left Fortalecer el sistema inmune.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Profilaxis
                 td.ajuste-border-tabla.texto-left Bioseguridad
-                td.ajuste-border-tabla.texto-left Control de ingreso, desinfección
-                td.texto-left Evitar transmisión de enfermedades
+                td.ajuste-border-tabla.texto-left Control de ingreso, desinfección.
+                td.texto-left Evitar transmisión de enfermedades.
     p.mb-0 La prevención es más económica y efectiva que el tratamiento, ya que reduce la incidencia de enfermedades y mejora la productividad del sistema.
     <!------------------------------------------ SUBTEMA 4 ------------------------------------------>
     Separador

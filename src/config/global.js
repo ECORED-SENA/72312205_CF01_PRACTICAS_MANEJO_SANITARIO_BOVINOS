@@ -95,7 +95,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Buenas prácticas ganaderas (BPG)',
+            titulo: 'Buenas Prácticas Ganaderas (BPG)',
             hash: 't_2_4',
           },
           {
@@ -574,24 +574,24 @@ export default {
     },
     {
       referencia:
-        'Corporación Colombiana de Investigación Agropecuaria, & Ministerio de Agricultura y Desarrollo Rural. (2018). Guía para la implementación de las buenas prácticas ganaderas. Corporación Colombiana de Investigación Agropecuaria. ',
+        'Corporación Colombiana de Investigación Agropecuaria, & Ministerio de Agricultura y Desarrollo Rural. (2018). Guía para la implementación de las Buenas Prácticas Ganaderas. Corporación Colombiana de Investigación Agropecuaria. ',
       link: 'http://hdl.handle.net/20.500.12324/13482 ',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020: requisitos para la certificación en buenas prácticas ganaderas en la producción de bovinos. ICA. ',
+        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020: requisitos para la certificación en Buenas Prácticas Ganaderas en la producción de bovinos. ICA. ',
       link:
         'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx ',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 068167 de 2020: requisitos para la certificación en buenas prácticas ganaderas en bovinos de carne y/o bufalinos. ICA. ',
+        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 068167 de 2020: requisitos para la certificación en Buenas Prácticas Ganaderas en bovinos de carne y/o bufalinos. ICA. ',
       link:
         'https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-a7ce15ce1ead/2020R68167.aspx   ',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario (ICA). (2023). Manual de buenas prácticas ganaderas para bovinos. ICA. ',
+        'Instituto Colombiano Agropecuario (ICA). (2023). Manual de Buenas Prácticas Ganaderas para bovinos. ICA. ',
       link:
         'https://www.ica.gov.co/getattachment/35f0d70e-b2dd-4bfc-ac1f-ba169b5ccdca/Publicacion-5.aspx',
     },

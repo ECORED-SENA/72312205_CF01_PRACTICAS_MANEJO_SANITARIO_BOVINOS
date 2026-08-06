@@ -116,23 +116,23 @@
               tr
                 td.ajuste-border-tabla.texto-left Limpieza
                 td.ajuste-border-tabla.texto-left Manual
-                td.ajuste-border-tabla.texto-left Se realiza con herramientas básicas
-                td.texto-left Cepillos, escobas, agua
+                td.ajuste-border-tabla.texto-left Se realiza con herramientas básicas.
+                td.texto-left Cepillos, escobas, agua.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Limpieza
                 td.ajuste-border-tabla.texto-left Mecánica
-                td.ajuste-border-tabla.texto-left Utiliza equipos para facilitar el proceso
-                td.texto-left Hidrolavadoras
+                td.ajuste-border-tabla.texto-left Utiliza equipos para facilitar el proceso.
+                td.texto-left Hidrolavadoras.
               tr
                 td.ajuste-border-tabla.texto-left Desinfección
                 td.ajuste-border-tabla.texto-left Física
-                td.ajuste-border-tabla.texto-left Emplea calor para eliminar microorganismos
-                td.texto-left Agua caliente, vapor
+                td.ajuste-border-tabla.texto-left Emplea calor para eliminar microorganismos.
+                td.texto-left Agua caliente, vapor.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Desinfección
                 td.ajuste-border-tabla.texto-left Química
-                td.ajuste-border-tabla.texto-left Uso de sustancias desinfectantes
-                td.texto-left Cloro, yodo, amonios cuaternarios
+                td.ajuste-border-tabla.texto-left Uso de sustancias desinfectantes.
+                td.texto-left Cloro, yodo, amonios cuaternarios.
     p.mb-0 La elección del método debe realizarse según el nivel de contaminación, el tipo de superficie y el riesgo sanitario del área a tratar.
     <!------------------------------------------ SUBTEMA 3 ------------------------------------------>
     Separador

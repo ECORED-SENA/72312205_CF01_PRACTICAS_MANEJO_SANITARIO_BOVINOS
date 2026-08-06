@@ -71,7 +71,6 @@
               figure
                 img(src='@/assets/curso/temas/img20.jpg', alt='').m-auto
             .col-xl.fit___box_container
-              p #[b Requisitos sanitarios]
               ul.fa-ul.estilo___ul.mb-0
                 li.mb-1
                   span.fa-li
@@ -190,7 +189,7 @@
     Separador
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.6 Normativa sobre bienestar animal y uso de medicamentos
-    p.mb-5 El bienestar animal y el uso de medicamentos están regulados por normas específicas; por lo cual, se invita a realizar la lectura de estas en los siguientes documentos anexos:
+    p.mb-5 El bienestar animal y el uso de medicamentos están regulados por normas específicas; por lo cual, se invita a realizar la lectura de los siguientes documentos anexos:
     .box___style_4.mb-3(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")

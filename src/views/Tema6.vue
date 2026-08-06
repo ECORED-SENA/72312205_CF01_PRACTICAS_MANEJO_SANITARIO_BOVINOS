@@ -190,7 +190,7 @@
     Separador
     #t_6_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.5 Disposición y organización de medicamentos
-    p.mb-0 Un manejo adecuado de los medicamentos en el predio permite mantener el control sanitario y la trazabilidad, mediante la clasificación de los productos por tipo, la aplicación del sistema PEPS, el almacenamiento en lugares seguros y limpios, la eliminación correcta de productos vencidos y el registro de los tratamientos realizados.
+    p.mb-0 Un manejo adecuado de los medicamentos en el predio permite mantener el control sanitario y la trazabilidad, mediante la clasificación de los productos por tipo, la aplicación del sistema PEPS (Primeras Entradas, Primeras Salidas), el almacenamiento en lugares seguros y limpios, la eliminación correcta de productos vencidos y el registro de los tratamientos realizados.
     <!------------------------------------------ SUBTEMA 6 ------------------------------------------>
     Separador
     #t_6_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
