@@ -189,17 +189,16 @@
     Separador
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.6 Normativa sobre bienestar animal y uso de medicamentos
-    p.mb-5 El bienestar animal y el uso de medicamentos están regulados por normas específicas; por lo cual, se invita a realizar la lectura de los siguientes documentos anexos:
     .box___style_4.mb-3(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
-          h4 Resolución ICA No. 136 de 2020.  
-          p.mb-0 Establece los requisitos para el manejo adecuado de animales de producción, incluyendo transporte, manejo y condiciones de bienestar.
+          h4 Resolución ICA No. 136 de 2020
+          p.mb-0 El bienestar animal está regulado por normas específicas, tales como, la Resolución ICA No. 136 de 2020, que estable los requisitos para el manejo adecuado de animales de producción, incluyendo transporte, manejo y condiciones de bienestar. Esta se encuentra disponible para descarga a continuación:
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/1_Resolucion_ICA_136__2020_Bienestar_animal.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/1_Resolucion_ICA_136_de_2020.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -209,9 +208,9 @@
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
           h4 Resolución ICA 067449 de 2020
-          p.mb-0 Condiciona la certificación en BPG al cumplimiento de estándares de bienestar animal.
+          p.mb-0 Continuando con la revisión de normatividad, se invita a realizar lectura de la Resolución ICA 067449 de 2020, por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas en la producción de leche. El documento puede consultarse aquí: 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/2_Resolucion_067449_08_mayo_2020.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/2_Resolucion_ICA_067449_de_2020.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -221,9 +220,9 @@
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
           h4 Decreto 2113 de 2017
-          p.mb-0 Reglamenta la movilización de animales, incluyendo condiciones de transporte que garanticen bienestar.
+          p.mb-0 Para la movilización de animales existe el Decreto 2113 de 2017. Este define las condiciones que debe cumplir el transporte para garantizar el bienestar animal. La fuente normativa está disponible seguidamente:
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/3_DECRETO_2113_15_DICIEMBRE_2017.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/3_Decreto_2113_de_2017.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -232,10 +231,10 @@
           figure
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
-          h4 Resolución ICA 1325 de 2016
-          p.mb-0 Regula la trazabilidad animal, permitiendo el seguimiento sanitario del ganado.
+          h4 Resolución ICA 4703 de 2024
+          p.mb-0 En cuanto a los requisitos y condiciones para habilitar los operadores del SINIGAN como agentes del SNIITA, con sus respectivas responsabilidades, se tiene la Resolución ICA 4703 de 2024. Se puede acceder a la versión vigente en la siguiente opción de descarga:
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/4_Resolucion_1325_2016.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/4_Resolucion_ICA_4703_2024.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-5(data-aos="flip-up")
@@ -244,13 +243,13 @@
           figure
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
-          h4 Resolución 1056 de 1996
-          p.mb-0 Define medidas sanitarias básicas en predios ganaderos.
+          h4 Resolución 090464 de 2021
+          p.mb-0 Finalmente, mediante la Resolución 090464 de 2021 se establece el Registro Sanitario de Predio Pecuario - RSPP. Para profundizar en esta normativa, realice la lectura a continuación: 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/5_Resolucion_1056_1996.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/5_Resolucion_90464_de_2021.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
-    p.mb-5 El uso de medicamentos veterinarios debe realizarse de manera responsable y bajo criterios técnicos, con el fin de garantizar la salud animal y la inocuidad de los productos de origen animal. 
+    p.mb-5 Por otra parte, el uso de medicamentos veterinarios debe realizarse de manera responsable y bajo criterios técnicos, con el fin de garantizar la salud animal y la inocuidad de los productos de origen animal. 
     .row.justify-content-center.mb-0
       .col-xl-10
         .box___style_2(data-aos="zoom-in")

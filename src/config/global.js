@@ -597,9 +597,9 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2013). Lineamientos para el uso prudente de antimicrobianos en producción animal. Gobierno de Colombia.  ',
+        'Ministerio de Salud y Protección Social. (2013). Resolución No. 1382 de 2013.',
       link:
-        'https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%205296%20del%202013.pdf ',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-1382-de-2013.pdf?utm_source= ',
     },
     {
       referencia:
