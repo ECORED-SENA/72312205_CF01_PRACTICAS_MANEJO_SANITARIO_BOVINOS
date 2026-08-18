@@ -190,7 +190,38 @@
     Separador
     #t_6_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.5 Disposición y organización de medicamentos
-    p.mb-0 Un manejo adecuado de los medicamentos en el predio permite mantener el control sanitario y la trazabilidad, mediante la clasificación de los productos por tipo, la aplicación del sistema PEPS (Primeras Entradas, Primeras Salidas), el almacenamiento en lugares seguros y limpios, la eliminación correcta de productos vencidos y el registro de los tratamientos realizados.
+    p.mb-4 La adecuada gestión de los medicamentos en el predio contribuye al control sanitario, previene riesgos y garantiza la trazabilidad de los tratamientos. Para ello, se aplican los siguientes pasos:
+    .row.justify-content-center
+      .col-xl-10
+        .box___style_3(data-aos="zoom-in")
+          .row.align-items-center
+            .col-col-xl-6.p-4.fit___box_container
+              ul.fa-ul.estilo___ul.mb-0
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  |
+                  p.mb-0 #[b Clasificar:] organizar los medicamentos según su tipo: antibióticos, vacunas, antiparasitarios y otros productos veterinarios.
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  |
+                  p.mb-0 #[b Ordenar:] aplicar el sistema PEPS: primero en entrar, primero en salir, con el fin de utilizar inicialmente los productos más antiguos.
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  |
+                  p.mb-0 #[b Almacenar:] ubicar los medicamentos en espacios seguros, limpios, señalizados y acordes con sus condiciones de conservación.
+                li.mb-1
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  |
+                  p.mb-0 #[b Disponer:] separar los productos vencidos y gestionarlos conforme a la normativa. Nunca deben eliminarse en fuentes de agua ni mezclarse con residuos comunes.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-check-circle
+                  |
+                  p.mb-0 #[b Registrar:] documentar los medicamentos utilizados y los tratamientos aplicados para mantener el control sanitario y asegurar su trazabilidad.
     <!------------------------------------------ SUBTEMA 6 ------------------------------------------>
     Separador
     #t_6_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
