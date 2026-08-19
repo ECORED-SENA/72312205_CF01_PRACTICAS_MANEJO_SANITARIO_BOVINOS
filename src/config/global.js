@@ -569,18 +569,18 @@ export default {
       referencia:
         'Consejo Nacional de Política Económica y Social. (2005). Documento CONPES 3375: Política nacional de sanidad agropecuaria e inocuidad de alimentos para el Sistema de Medidas Sanitarias y Fitosanitarias. Departamento Nacional de Planeación. ',
       link:
-        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3375.pdf ',
+        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3375.pdf',
     },
     {
       referencia:
         'Corporación Colombiana de Investigación Agropecuaria, & Ministerio de Agricultura y Desarrollo Rural. (2018). Guía para la implementación de las Buenas Prácticas Ganaderas. Corporación Colombiana de Investigación Agropecuaria. ',
-      link: 'http://hdl.handle.net/20.500.12324/13482 ',
+      link: 'http://hdl.handle.net/20.500.12324/13482',
     },
     {
       referencia:
         'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020: requisitos para la certificación en Buenas Prácticas Ganaderas en la producción de bovinos. ICA. ',
       link:
-        'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx ',
+        'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx',
     },
     {
       referencia:
@@ -598,18 +598,18 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social. (2013). Resolución No. 1382 de 2013.',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-1382-de-2013.pdf?utm_source= ',
+        'https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%205296%20del%202013.pdf',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2007). Decreto 1500 de 2007: Reglamento técnico para la inspección, vigilancia y control de la carne y productos cárnicos. Instituto Nacional de Vigilancia de Medicamentos y Alimentos. ',
+        'Ministerio de la Protección Social. (2007). Decreto 1500 de 2007: Reglamento técnico para la inspección, vigilancia y control de la carne y productos cárnicos. Instituto Nacional de Vigilancia de Medicamentos y Alimentos.',
       link:
         'https://www.invima.gov.co/biblioteca/decreto-1500-2007-reglamento-tecnico-carne-productos-carnicos',
     },
     {
       referencia:
         'Organización Mundial de Sanidad Animal (OMSA). (2023). Código sanitario para los animales terrestres. OMSA. ',
-      link: 'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/ ',
+      link: 'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/',
     },
   ],
   creditos: [

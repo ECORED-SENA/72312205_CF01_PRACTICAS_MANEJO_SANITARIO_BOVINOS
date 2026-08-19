@@ -195,10 +195,22 @@
           figure
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
+          h4 Decreto 2113 de 2017
+          p.mb-0 Para la movilización de animales existe el Decreto 2113 de 2017. Este define las condiciones que debe cumplir el transporte para garantizar el bienestar animal. La fuente normativa está disponible seguidamente:
+        .col-xl-2
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/1_Decreto_2113_de_2017.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
+    .box___style_4.mb-3(data-aos="flip-up")
+      .row.align-items-center
+        .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
+          figure
+            img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
+        .col-xl.mb-4.mb-lg-0
           h4 Resolución ICA No. 136 de 2020
           p.mb-0 El bienestar animal está regulado por normas específicas, tales como, la Resolución ICA No. 136 de 2020, que estable los requisitos para el manejo adecuado de animales de producción, incluyendo transporte, manejo y condiciones de bienestar. Esta se encuentra disponible para descarga a continuación:
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/1_Resolucion_ICA_136_de_2020.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/2_Resolucion_ICA_136_de_2020.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -208,21 +220,9 @@
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
           h4 Resolución ICA 067449 de 2020
-          p.mb-0 Continuando con la revisión de normatividad, se invita a realizar lectura de la Resolución ICA 067449 de 2020, por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas en la producción de leche. El documento puede consultarse aquí: 
+          p.mb-0 Por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas en la producción de leche. El documento puede consultarse aquí: 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/2_Resolucion_ICA_067449_de_2020.pdf')" target="_blank" type="application/pdf")
-            span Descargar
-            i.fas.fa-file-download
-    .box___style_4.mb-3(data-aos="flip-up")
-      .row.align-items-center
-        .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
-          figure
-            img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
-        .col-xl.mb-4.mb-lg-0
-          h4 Decreto 2113 de 2017
-          p.mb-0 Para la movilización de animales existe el Decreto 2113 de 2017. Este define las condiciones que debe cumplir el transporte para garantizar el bienestar animal. La fuente normativa está disponible seguidamente:
-        .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/3_Decreto_2113_de_2017.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/3_Resolucion_ICA_067449_de_2020.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_4.mb-3(data-aos="flip-up")
@@ -243,10 +243,10 @@
           figure
             img(src='@/assets/curso/temas/img23.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
-          h4 Resolución 090464 de 2021
-          p.mb-0 Finalmente, mediante la Resolución 090464 de 2021 se establece el Registro Sanitario de Predio Pecuario - RSPP. Para profundizar en esta normativa, realice la lectura a continuación: 
+          h4 Resolución ICA 15843 de 2026
+          p.mb-0 Esta norma deroga de forma definitiva la Resolución 1056 a partir del 2 de octubre de 2026. Adopta los lineamientos de la Decisión Andina 960 de 2025 para regular integralmente los insumos veterinarios. Esta se encuentra disponible para descarga a continuación:
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/5_Resolucion_90464_de_2021.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/5_Resolucion_15843_de_2026.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     p.mb-5 Por otra parte, el uso de medicamentos veterinarios debe realizarse de manera responsable y bajo criterios técnicos, con el fin de garantizar la salud animal y la inocuidad de los productos de origen animal. 
