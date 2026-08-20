@@ -21,8 +21,8 @@
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img11.png", alt="" ).m-auto
-      .col-xl
-        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+      .col-xl(data-aos="fade-left")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="Libre de hambre y sed").ajuste-cajaAcordion
             p.mb-3 El animal debe tener acceso permanente a agua limpia y a una alimentación suficiente y balanceada que cubra sus necesidades nutricionales.
           .row(titulo="Libre de incomodidades").ajuste-cajaAcordion

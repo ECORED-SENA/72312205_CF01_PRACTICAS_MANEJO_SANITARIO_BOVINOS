@@ -96,7 +96,7 @@
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 7.2 Técnicas de aplicación (según BPG)
     p.mb-5 Para garantizar una aplicación segura y efectiva conforme a las Buenas Prácticas Ganaderas (BPG), es esencial usar la aguja adecuada, respetar el ángulo de inserción y evitar la contaminación. A continuación, se presentan recomendaciones sobre tipos de agujas, ángulos y buenas prácticas.
-    AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA" data-aos="zoom-in")
       .row(titulo="Uso de agujas (recomendación clave BPG)").ajuste-cajaAcordion
         ul.fa-ul.mb-0
           li.mb-0

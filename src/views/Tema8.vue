@@ -107,8 +107,8 @@
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img11.png", alt="" ).m-auto
-      .col-xl
-        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+      .col-xl(data-aos="fade-left")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="Mastitis").ajuste-cajaAcordion
             p.mb-3 Inflamación de la ubre, que puede presentarse de forma clínica o subclínica y afecta directamente la producción de leche.
           .row(titulo="Metritis").ajuste-cajaAcordion
@@ -126,8 +126,8 @@
       h2 8.2 Mecanismos de transmisión
     p.mb-5 Las enfermedades pueden propagarse por diferentes vías, lo que hace fundamental el control sanitario en el predio. Las enfermedades se pueden transmitir así:
     .fondo___carrusel
-      .px-5
-        SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+      .px-5(data-aos="zoom-in")
+        SlyderF(columnas="col-lg-6 col-xl-4").mb-5
           .tarjeta.color-acento-botones.fit___card-sinbordes
             .row.justify-content-center.mb-4
               .col-12
@@ -165,8 +165,8 @@
           h2 8.3 Diagnóstico básico, tratamientos y profilaxis
         p.mb-5 El diagnóstico básico permite detectar enfermedades; los tratamientos adecuados y la profilaxis, mediante vacunación y bioseguridad, previenen riesgos, protegen la salud del hato y mejoran la producción. En primer lugar, se conocerá lo que implica realizar un diagnóstico en campo:
     .row.align-items-center.mb-5
-      .col-xl
-        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-right")
+      .col-xl(data-aos="fade-right")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="A. Evaluación clínica").ajuste-cajaAcordion
             p Consiste en realizar:
             ul.fa-ul.mb-0
@@ -481,8 +481,8 @@
       h2 8.6 Monitoreo y seguimiento sanitario
     p.mb-5 El monitoreo sanitario permite evaluar continuamente la condición de salud del hato y la efectividad de las medidas implementadas. Su importancia y componentes son:
     .row.justify-content-center.mb-0
-      .col-xl-10
-        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
+      .col-xl-10(data-aos="zoom-in")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="Importancia del monitoreo").ajuste-cajaAcordion
             .col-xl-7.mb-4.mb-lg-0.fit___vineta-acordion
               ul.fa-ul.mb-0

@@ -21,8 +21,8 @@
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img11.png", alt="" ).m-auto
-      .col-xl
-        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+      .col-xl(data-aos="fade-left")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="Resolución ICA 068167 de 2020").ajuste-cajaAcordion
             p.mb-3 Establece los requisitos para la certificación en Buenas Prácticas Ganaderas (BPG) en la producción de carne de bovinos y bufalinos. Define criterios en infraestructura, manejo sanitario, alimentación, bienestar animal, trazabilidad, uso de medicamentos y gestión ambiental. Esta resolución busca garantizar que la producción primaria cumpla estándares de inocuidad y calidad exigidos a nivel nacional e internacional.  
           .row(titulo="Resolución ICA 0000002341 de 2007").ajuste-cajaAcordion
